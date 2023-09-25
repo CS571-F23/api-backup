@@ -1,0 +1,18 @@
+{
+    "error": false,
+    "category": "Pun",
+    "type": "twopart",
+    "setup": "I walked into a bar once.",
+    "delivery": "It really hurt my head.",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+    },
+    "id": 215,
+    "safe": true,
+    "lang": "en"
+}

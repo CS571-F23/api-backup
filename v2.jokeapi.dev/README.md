@@ -1,0 +1,1 @@
+Retrieved from https://v2.jokeapi.dev/joke/Any?safe-mode on September 25th, 2023
